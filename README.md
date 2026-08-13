@@ -9,3 +9,6 @@
 
 ### iOS签名软件
 ##### https://github.com/rursache/Signr
+
+### iOS越狱dopamine
+##### https://ellekit.space/dopamine/
